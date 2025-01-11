@@ -57,30 +57,42 @@ For this project, we will be looking at the yahoo finance API which provides rea
 **Price-To-Earnings ratio of top tech stocks**
 ![image](https://github.com/user-attachments/assets/5c67e433-13b7-4eba-9465-301558e4dd55)
 
-- 
+- Looking at price to earnings ratio of these tech stocks some winners currently are PLTR, CRWD and GLW based on the graph shown
+- Based on the average red line these stocks are currently really high in terms of price to earnings which can be due to many reasons
+- Looking as MSFT, AAPL and NVDA they are below the mean horizontal line 
 
 
 **Market Cap of Top Tech Stocks**
 
 ![image](https://github.com/user-attachments/assets/30c5b6aa-5d60-45fd-9546-7ea15c47de96)
 
-
-
+- Looking at this graph the top leaders in market cap are AAPL, MSFT, and NVDA
+- These technology companies have the highest growth as they have a lot of development in AI and other areas that allow for strong consistent revenue growth
+- AAPL can be understandable in having a loyal customer base as many users look to apple for smartphones
 
 
 **A look at Nvidia's Growth**
 
 ![image](https://github.com/user-attachments/assets/4d615d68-b206-4f99-8a91-d5fbbb684134)
 
+- Nvidia's growth can be explained due to multiple reasons such as heavy market share in the GPU market and not strong competitors
+- Compared to other companies like Apple and Microsoft, the growth was really strong as they have unique products and GPU demand overpasses the supply
+
+
 
 **Nvidia's 10-day Moving Average Price**
 
 ![image](https://github.com/user-attachments/assets/e51bc080-d304-41b6-bd9a-adf229cdfc3a)
 
-
-
+- Nvidia's stock price in comparison to the 10-day moving average can be used to analyze the companies stock further and understand if it would be a good buy
+- Looking at the graph it trends to increase overtime for the stock based on the 10-day moving average in geting more accurate understanding of the stock price
 
 
 
 ### Conclusion & Future Expansion
+The analysis shows an introduction to utilizing yahoo finance api in python and getting real financial market data on technology companies to analyze the financials. Although it shows Nvidia's growth in the technology market has been really strong as they have a unique product in the GPU market. Looking at microsoft they have revenue growth that is consistent each year with there investments in cloud computing, artificial intelligence etc. Some future expansions to this analysis would be to do further investigation into a companies financials and forecasting stock prices. 
+Future updates to this analysis includes: 
+- Adding forecasting for stocks and focus on using machine learning models
+- Utilize web scraping to get more useful data on websites not limited to yahoo finance API
+  
 
