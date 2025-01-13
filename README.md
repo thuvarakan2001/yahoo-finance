@@ -1,5 +1,5 @@
 
-# Yahoo Finance Stock Analysis - Exploratory Data Analysis, Forecasting, Yahoo! Finance API, Web Scraping
+# Yahoo Finance Stock Analysis - Exploratory Data Analysis with Yahoo! finance API
 
 ![yahoo-finance](https://github.com/user-attachments/assets/41818973-1280-4945-bdc3-465558f75a45)
 
